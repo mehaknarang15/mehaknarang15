@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a **Computer Science Major** with a deep passion for **Data Science and Analytics**
+I'm a **Computer Science Major** with a deep passion for **Data Science and Analytics**.
 
 ## 🚀 Skills & Technologies
 
