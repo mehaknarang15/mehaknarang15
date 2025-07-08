@@ -21,8 +21,8 @@ I'm a **Computer Science Major** with a deep passion for **Data Science and Anal
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-964B00?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases:
 
